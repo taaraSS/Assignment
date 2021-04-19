@@ -1,0 +1,7 @@
+
+1618808415553,1554,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,333,1,1,https://petstore.swagger.io/v2/store/order,1554,0,1198
+1618808417108,327,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,182,1,1,https://petstore.swagger.io/v2/store/order/1?orderId=1,327,0,0
+1618808417436,391,HTTP Request,200,OK,Thread Group 1-1,text,true,,424,174,1,1,https://petstore.swagger.io/v2/store/inventory,390,0,0
+1618809327924,1509,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,333,1,1,https://petstore.swagger.io/v2/store/order,1509,0,1146
+1618809329434,328,HTTP Request,200,OK,Thread Group 1-1,text,true,,444,182,1,1,https://petstore.swagger.io/v2/store/order/1?orderId=1,328,0,0
+1618809329763,339,HTTP Request,200,OK,Thread Group 1-1,text,true,,424,174,1,1,https://petstore.swagger.io/v2/store/inventory,339,0,0
